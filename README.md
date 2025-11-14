@@ -5,7 +5,7 @@
 ## 📂 Содержание проектов
 
 ### 1. **Анализ рыночных индикаторов**  
- ### 🔍 [SMA/RSI Graph Lab](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Hyperoptimization_ML.ipynb)
+ ### 🔍 [SMA/RSI Graph Lab](https://github.com/AlexKosuhin/AlgoTrading/blob/dev/Первые%20шаги/График_цены%2C%20SMA%2C%20RSI.ipynb)
 
 **Функционал:**
 - 📊 Визуализация ценовых графиков (свечные/линейные)
@@ -15,7 +15,7 @@
 - ⚙ Настройка параметров отображения
 
 ### 2. **Стратегия "Купи и держи" с докупками**  
-### 🔍 [Dollar-Cost Averaging (DCA)](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Hyperoptimization_ML.ipynb)
+### 🔍 [Dollar-Cost Averaging (DCA)](https://github.com/AlexKosuhin/AlgoTrading/blob/dev/Стратегия%20купи%20и%20держи%20с%20докупками.ipynb)
 
 **Функционал:**  
 - 💰 Тестирование стратегии усреднения   
@@ -27,7 +27,7 @@
 
 
 ### 3. **Прогнозирование эффективности свечных паттернов с помощью машинного обучения. В разработке**
-### 🔍 [Pattern Profit Predictor](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Hyperoptimization_ML.ipynb)
+### 🔍 [Pattern Profit Predictor](https://github.com/AlexKosuhin/AlgoTrading/blob/dev/classification.ipynb)
 
 ## Описание проекта
 
