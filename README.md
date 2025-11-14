@@ -1,5 +1,4 @@
 # 📈 Python Algorithmic Trading Projects
-
 Проекты для анализа рынка и алгоритмической торговли на Python.
 
 ## 📂 Содержание проектов
