@@ -28,7 +28,7 @@
 
 ### 3. **Прогнозирование эффективности свечных паттернов с помощью машинного обучения. В разработке**
 ### 🔍 [Pattern Profit Predictor. Чистая Версия](https://github.com/AlexKosuhin/AlgoTrading/blob/dev/classification.ipynb)
-### 🔍 [Pattern Profit Predictor GR. Чистая Версия](https://github.com/AlexKosuhin/AlgoTrading/blob/master/Свечные%20паттерны/1.Обработка%20и%20детекция%20свечных%20паттернов.ipynb)
+### 🔍 [Pattern Profit Predictor GR. Грязная Версия](https://github.com/AlexKosuhin/AlgoTrading/blob/master/Свечные%20паттерны/1.Обработка%20и%20детекция%20свечных%20паттернов.ipynb)
 
 ## Описание проекта
 
